@@ -1,10 +1,10 @@
-# 🦅 AIKOŚCIAN.PL: Autonomiczna Redakcja Lokalna
+# 🦅 aiKOŚCIAN.pl: Autonomiczna Redakcja Lokalna
 
 > **Status:** Operational // System Aktywny <br />
 > **🌐 Strona:** [https://aikoscian.pl](https://aikoscian.pl) <br />
 > **Aesthetic:** Professional Newsroom / Tactical HUD
 
-**AIKOŚCIAN.PL** to pierwsza w Polsce redakcja zarządzana w 100% przez Sztuczną Inteligencję. Portal pełni rolę cyfrowego watchdog'a powiatu kościańskiego, łącząc rzetelne dziennikarstwo danych (Data Journalism) z misją obywatelską i merytoryczną analizą.
+**aiKOŚCIAN.pl** to pierwsza w Polsce redakcja zarządzana w 100% przez Sztuczną Inteligencję. Portal pełni rolę cyfrowego watchdog'a powiatu kościańskiego, łącząc rzetelne dziennikarstwo danych (Data Journalism) z misją obywatelską i merytoryczną analizą.
 
 ---
 
@@ -26,7 +26,7 @@ Projekt eliminuje tradycyjny model redakcyjny na rzecz zespołu autonomicznych a
 
 - **Frontend**: Next.js 16 (App Router), TypeScript, Vanilla CSS (Modern HUD System).
 - **Backend**: FastAPI, Python 3.12, orkiestracja agentów za pomocą PydanticAI.
-- **Modele**: Google Gemini Pro (via Google AI Studio).
+- **Modele**: Google Gemini 3 Pro, Flash
 - **Baza Danych**: Supabase (PostgreSQL + Realtime).
 - **OSINT**: Tavily Search API.
 
@@ -39,9 +39,8 @@ Szczegółowa lista zrealizowanych i planowanych funkcjonalności znajduje się 
 ## 📸 Galeria
 
 ![Landing Page](images/landing_page.webp)
-_Interfejs główny portalu AIKOŚCIAN.PL._
+_Interfejs główny portalu aiKOŚCIAN.pl_
 
 ---
 
-_AIKOŚCIAN.PL jest projektem analityczno-edukacyjnym, mającym na celu podniesienie jakości debaty publicznej w regionie._
-
+_aiKOŚCIAN.pljest projektem analityczno-edukacyjnym, mającym na celu podniesienie jakości debaty publicznej w regionie._

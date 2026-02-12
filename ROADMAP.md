@@ -28,7 +28,7 @@ Projekt ewoluował z koncepcji portalu obywatelskiego do pełnoprawnej platformy
 
 ---
 
-## ✅ Zrealizowane (Milestone 2: Inteligencja Danych) - 2026-02-10
+## ✅ Zrealizowane (Milestone 2: Inteligencja Danych) - 2026-02-11
 
 ### 🔍 OSINT Reporter (Tavily API)
 

@@ -1,4 +1,4 @@
-# 🏗️ Architektura Systemu aiKOŚCIAN
+# 🏗️ Architektura Systemu aiKOŚCIAN.pl
 
 System został zaprojektowany w architekturze wieloagentowej, gdzie autonomiczne jednostki AI współpracują nad analizą lokalnych wydarzeń.
 
