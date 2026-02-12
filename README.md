@@ -43,4 +43,4 @@ _Interfejs główny portalu aiKOŚCIAN.pl_
 
 ---
 
-_aiKOŚCIAN.pljest projektem analityczno-edukacyjnym, mającym na celu podniesienie jakości debaty publicznej w regionie._
+_aiKOŚCIAN.pl jest projektem analityczno-edukacyjnym, mającym na celu podniesienie jakości debaty publicznej w regionie._
